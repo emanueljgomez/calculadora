@@ -6,6 +6,8 @@ const Input = styled.input`
   background-color: rgb(36, 31, 71);
   height: 70px;
   font-size: 48px;
+  color: rgb(0, 153, 204);
+  text-align: right;
 `;
 
 export default Input;  // Input component must be exported so others components may use it

@@ -3,9 +3,10 @@ import Button from "../style/Button";   // Button component must be imported fir
 import KeypadContainer from "../style/KeypadContainer";   // KeypadContainer component must be imported first
 
 export default function Keypad() {
+
         return (
          
-        <KeypadContainer>
+            <KeypadContainer>
 
                     <Button>C</Button>
                     <Button>/</Button>
